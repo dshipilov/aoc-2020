@@ -1,4 +1,3 @@
-import scala.annotation.tailrec
 import scala.collection.mutable
 
 object AoC11 {
